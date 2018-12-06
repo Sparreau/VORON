@@ -6,7 +6,7 @@ This fits the 5V power supply from AliExpress.  https://www.aliexpress.com/item/
 <b>FSR_circuit_mount</b><br>
 This fits the sensor module used in the FSR circuit.  Mine are from Amazon, but it appears to be the same board used in the AliExpress sensor modules.  https://www.amazon.com/gp/product/B07B94Q1C8/
 
-<b>_z_rail_stop_(top/bottom)_x4</b><br>
+<b>\_z_rail_stop_(top/bottom)_x4</b><br>
 I made these primarily to set the 25mm spacing of the Z linear bearing rails from the bottom extrusion of the printer.  While I was at it, I re-shaped it to mate up to the rail a bit better.
 
 <b>bed_extrusion_spacer_parametric</b><br>
