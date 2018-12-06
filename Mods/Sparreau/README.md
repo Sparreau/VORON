@@ -10,7 +10,7 @@ This fits the sensor module used in the FSR circuit.  Mine are from Amazon, but 
 I made these primarily to set the 25mm spacing of the Z linear bearing rails from the bottom extrusion of the printer.  While I was at it, I re-shaped it to mate up to the rail a bit better.
 
 <b>bed_extrusion_spacer_parametric</b><br>
-These are an aid to set the spacing of the bed rails.  To go between 150mm center spaced rails you need 130mm spacers.  You'll have to calculate the outter spacers for your frame size.
+These are an aid to set the spacing of the bed rails.  To go between 150mm center spaced rails you need 130mm spacers.  You'll have to calculate the outer spacers for your frame size.
 
 <b>dial_indicator_fan_mount</b><br>
 This fits a dial indicator from Harbor Freight with a 9.5mm shank along with a 10mm thick extruder fan.  A clothes pin works great for holding the indicator pin up when not in use.  MAKE SURE YOU DO NOT CRASH IT!
